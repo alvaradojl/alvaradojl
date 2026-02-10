@@ -36,7 +36,7 @@ Currently channeling expertise into **TrustRelay** and **Urban Data Mesh** solut
 <tr>
 <td width="50%">
 
-**🔗 [TrustRelay](https://beyondcivic.com/trustrelay)**
+**🔗 [TrustRelay](https://beyondcivic.com/en/product)**
 
 > Unlock the value of data through collaboration within Data Ecosystems
 
